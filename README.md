@@ -1,3 +1,5 @@
+<img alt="Static Badge" src="https://img.shields.io/badge/STATUS-FINALIZADO-GREEN">
+
 <h1 align= "center">Página web Alura Plus</h1>
 <p align="center">Desenvolvida com HTML e CSS</p>
 
